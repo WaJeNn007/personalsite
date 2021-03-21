@@ -1,0 +1,28 @@
+  body{
+    background-color: #e7e7de;
+  }
+
+  hr{
+    background-color: #e7e7de;
+    border-color: black;
+    border-style: none none none;
+    width: 5%;
+    border-width: 5px;
+
+  }
+  img{
+    width: 100px;
+  }
+  h1{
+    color: #008891;
+  }
+  h3{
+    color: #008891;
+  }
+
+  p{
+    color: #903749;
+  }
+  li{
+    color: #903749;
+  }
